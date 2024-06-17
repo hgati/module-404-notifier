@@ -1,1 +1,1 @@
-# module-404-notifier
+# Magento2 404 Notfound Notifier
